@@ -12,14 +12,13 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /grammy-upptime
   logoUrl: https://go.grammy.com/wp-content/uploads/2023/09/GRAMGO_lockup_horizontal_white.png
-  name: GrammyGo Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 
+  introMessage: This uses **real-time** data from our [GitHub repository](https://github.com/joshfester/grammy-upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/joshfester/grammy-upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
