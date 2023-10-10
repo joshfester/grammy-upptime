@@ -10,7 +10,6 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  theme: ocean
   css: "a.logo div { display: none; }"
   baseUrl: /grammy-upptime
   logoUrl: https://go.grammy.com/wp-content/uploads/2023/09/GRAMGO_lockup_horizontal_white.png
