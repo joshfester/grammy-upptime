@@ -10,10 +10,12 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  theme: night
+  css: "a.logo div { display: none; }"
   baseUrl: /grammy-upptime
   logoUrl: https://go.grammy.com/wp-content/uploads/2023/09/GRAMGO_lockup_horizontal_white.png
-  name: 
-  introMessage: This uses **real-time** data from our [GitHub repository](https://github.com/joshfester/grammy-upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: GrammyGo Uptime Monitor
+  introMessage: This uses **real-time** data from our [GitHub repository](https://github.com/joshfester/grammy-upptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
